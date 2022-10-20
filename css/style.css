@@ -1945,8 +1945,9 @@ body::after {
     display: none;
   }
   .popup-entertainment__body::after {
-    top: -45%;
-    left: 144%;
+/*     top: -45%;
+    left: 144%; */
+    display: none;
   }
 }
 .popup-entertainment__image {
